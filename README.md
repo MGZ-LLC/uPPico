@@ -1,5 +1,5 @@
 # uPPico 
-> uP stands for Uncle Pi
+> **uP** stands for Uncle Pi <br />
 > Pronounced: "U.P. Pico"  /yə/ /pē/ /pikō/
 
 ## About
