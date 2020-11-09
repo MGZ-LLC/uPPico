@@ -52,3 +52,18 @@ The **uP** environment is an open platform, currently there are two versions - *
 #### Dimensions of the uPPico
 
 - 12.3mm x 18mm x 6mm for the board (battery excluded) [width x length x height]
+
+
+
+### Programming the uPPico
+
+<img alt="Photo of the uPPico connected to programmer" src="https://raw.githubusercontent.com/MGZ-LLC/uPPico/main/media/uPPico-nRF51422-connected-to-programmer.jpg" height=300 align=center>
+
+The **uPPico** is connected to a [SiPeed Programmer](https://maixpy.sipeed.com/en/get_started/get_hardware.html) via a special adapter. 
+
+The USB allows for programming of the softdevice as well as connecting via UART.
+
+
+
+The **uPPico** can also be programmed wirelessly using [Nordic's BLE DFU](https://infocenter.nordicsemi.com/topic/com.nordic.infocenter.sdk5.v11.0.0/examples_ble_dfu.html) bootloader.
+
