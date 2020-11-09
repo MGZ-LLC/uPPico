@@ -25,20 +25,30 @@ The **uP** environment is an open platform, currently there are two versions - *
 
 ## Specifications
 #### MCU
-SoC: nRF51422 xxac (capable of BLE and ANT)
-Core: ARM Cortex-M0, 32 MHz 
-Memory: 32 kB RAM, 256 kB ROM 
-Clock & Power: 1.8 V, 32 MHz 
-Communication: SPI, UART, I2C
+
+[Product Brief](https://www.mouser.com/pdfdocs/PRODBRIEFnRF51422.pdf)
+
+||Description|
+|---|---|
+| SoC                    | nRF51422 xxac (capable of BLE and ANT) |
+| Core                   | ARM Cortex-M0, 32 MHz                  |
+| Memory                 | 32 kB RAM, 256 kB ROM                  |
+| Clock                  | 32 MHz                                 |
+| Power                  | 1.8 V                                  |
+| Communication          | SPI, UART, I2C                         |
+| Wireless communication | Ultra low power - BLE, ANT      |
 
 #### Additional
 
-2MB memory via SPI
-IMU with magnetometer
-Battery charging and control circuit is included
+|                   | Description                                        |
+| ----------------- | -------------------------------------------------- |
+| Persistent memory | 2MB memory via SPI                                 |
+| Power controller  | Battery charging and control circuit on-board      |
+| Sensors           | IMU: 3-axis accelerometer with 3-axis magnetometer |
+| Outputs           | on-board LED, one GPIO already wired for haptic vibrator |
 
 
 
-#### Dimensions (uPPico)
+#### Dimensions of the uPPico
 
-- 12.3mm x 18mm x 6mm for the board (battery excluded)
+- 12.3mm x 18mm x 6mm for the board (battery excluded) [width x length x height]
