@@ -2,7 +2,7 @@
 > **uP** stands for Uncle Pi <br />
 > Pronounced: "U. Pi Pico"  /yə/ /pī/ /pikō/ 
 
-![Photo of a uPPico connnected to a battery](C:\Users\Kevin-Lenovo\Documents\Coding_Dev\Pietro\uPPico-nRF51422\uPPico\media\uPPico-nRF51422.jpg)
+![Photo of a uPPico connnected to a battery](https://github.com/MGZ-LLC/uPPico/blob/main/media/uPPico-nRF51422.jpg)
 
 ## About
 
