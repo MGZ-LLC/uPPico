@@ -2,6 +2,8 @@
 > **uP** stands for Uncle Pi <br />
 > Pronounced: "U. Pi Pico"  /yə/ /pī/ /pikō/ 
 
+![Photo of a uPPico connnected to a battery](C:\Users\Kevin-Lenovo\Documents\Coding_Dev\Pietro\uPPico-nRF51422\uPPico\media\uPPico-nRF51422.jpg)
+
 ## About
 
 The **uPPico** by [MGZ](https://github.com/MGZ-LLC/MGZ-LLC/blob/main/README.md) was designed to be a generic wearable BLE device that was originally created to fulfil the needs of two different projects. 
